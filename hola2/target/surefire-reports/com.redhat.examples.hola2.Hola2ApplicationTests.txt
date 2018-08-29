@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.redhat.examples.hola2.Hola2ApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.412 s - in com.redhat.examples.hola2.Hola2ApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.727 s - in com.redhat.examples.hola2.Hola2ApplicationTests
