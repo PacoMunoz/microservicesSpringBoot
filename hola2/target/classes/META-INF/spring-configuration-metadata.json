@@ -1,0 +1,17 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.redhat.examples.hola2.rest.HolaRestController",
+      "name": "helloapp",
+      "type": "com.redhat.examples.hola2.rest.HolaRestController"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.redhat.examples.hola2.rest.HolaRestController",
+      "name": "helloapp.saying",
+      "type": "java.lang.String"
+    }
+  ]
+}
